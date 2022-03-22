@@ -1,8 +1,8 @@
 import React, {useRef, useEffect} from 'react';
 import './Slideshow.css';
-import img1 from '../../media/comida1.jpg';
-import img2 from '../../media/comida2.jpg';
-import img3 from '../../media/comida3.jpg';
+import img1 from '../../assets/comida1.jpg';
+import img2 from '../../assets/comida2.jpg';
+import img3 from '../../assets/comida3.jpg';
 import {FaAngleLeft} from "react-icons/fa";
 import {FaAngleRight} from "react-icons/fa";
 import {ContenedorPrincipal,

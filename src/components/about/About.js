@@ -1,7 +1,7 @@
 import React from 'react';
 import "./About.css";
-import Desayuno from '../../media/desayunito.png';
-import Almuerzo from '../../media/almuerzo.png'
+import Desayuno from '../../assets/desayunito.png';
+import Almuerzo from '../../assets/almuerzo.png'
 
 const About = () => {
   return (

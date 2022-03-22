@@ -1,5 +1,5 @@
 import { Types } from "./ShoppingActions";
-import Perico from '../../media/perico-9.jpg';
+import Perico from '../../assets/perico-9.jpg';
 
 
 export const shoppingInitialState = {
